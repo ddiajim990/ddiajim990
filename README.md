@@ -20,11 +20,8 @@ Desarrollador web con dominio de **Java, PHP, JavaScript, HTML y CSS**. Experien
 
 Perfil resolutivo, práctico, comprometido, en aprendizaje continuo y orientado a resultados.
 
-<p>
-  <img src="https://img.shields.io/badge/Cursando-Grado_Superior_en_Desarrollo_de_Aplicaciones_Web,_I.E.S._Los_Alcores-1f6feb?style=flat" alt="Cursando" height="28" />
-  <br>
-  <img src="https://img.shields.io/badge/Pr%C3%B3ximamente-Pr%C3%A1cticas_profesionales_de_desarrollo_web,_enero_de_2027-30363d?style=flat" alt="Próximamente" height="28" />
-</p>
+*   **Actualmente cursando:** Grado Superior de Desarrollo de Aplicaciones Web (I.E.S. Los Alcores).
+*   **Próximamente:** Prácticas profesionales de desarrollo web (Enero 2027).
 
 ---
 
